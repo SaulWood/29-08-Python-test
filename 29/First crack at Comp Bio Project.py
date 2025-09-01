@@ -37,3 +37,4 @@ protein = dna.translate()
 print(protein)
 
 
+#teste
