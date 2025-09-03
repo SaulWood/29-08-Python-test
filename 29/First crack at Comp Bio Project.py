@@ -1,3 +1,6 @@
+from orca.settings import SAYALL_STYLE_LINE
+
+
 def new_function (funky, clunky):
      answer = funky * clunky
      return answer
@@ -38,3 +41,6 @@ print(protein)
 
 
 #teste
+
+T = input('Output when you type: ')
+saul
